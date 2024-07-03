@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "thundering-manchester-fast",
+      "distDir": "out",
+      "buildCommand": "npm install && npm run build"
+    }
+  ]
+}
